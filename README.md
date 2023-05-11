@@ -6,9 +6,9 @@ This app is capable of to hourly forecast the weather very accuratelly.
 <br/>
 Weather app also forecast the weather of 5 days precisely.
 One can see the timing of Sunrise, Sunset, speed of wind, humidity and so on.<br/>
-User can even see the peak and bottom tempreature of the day.
+User can even see the peak and the bottom tempreature of the day.
 <br/>
-This app is free to all and can forecast the weather upto 98 - 100 % accurately.
+This app is free for all and can forecast the weather upto 98 - 100 % accurately.
 
 ## Screenshots
 
