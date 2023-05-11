@@ -4,7 +4,7 @@ Created a Weather App, where one can see the weather of desired city, state, cou
 <br/>
 This app is capable of to hourly forecast the weather very accuratelly.
 <br/>
-Weather app also forecast the weather of 5 days frecisely.
+Weather app also forecast the weather of 5 days precisely.
 One can see the timing of Sunrise, Sunset, speed of wind, humidity and so on.<br/>
 User can even see the peak and bottom tempreature of the day.
 <br/>
