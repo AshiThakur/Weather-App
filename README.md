@@ -17,8 +17,7 @@ This app is free for all and can forecast the weather upto 98 - 100 % accurately
 ![Weather2](https://user-images.githubusercontent.com/86166514/234665482-aa612be1-7013-42ab-8d73-5a60e5168572.png)
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.
 
 
 ## Happy Coding :}
